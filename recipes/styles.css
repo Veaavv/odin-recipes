@@ -4,7 +4,7 @@ body {
 }
 
 img {
-    width: 400px;
+    width: 500px;
     height: auto;
 }
 
@@ -17,5 +17,9 @@ img {
 .steps {
     font-weight: bold;
     font-size: 28px;
-    
+
+}
+
+.heading {
+    font-size: 30px;
 }
