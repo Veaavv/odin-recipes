@@ -1,0 +1,11 @@
+body {
+    font-size: 28px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    text-align: center;
+}
